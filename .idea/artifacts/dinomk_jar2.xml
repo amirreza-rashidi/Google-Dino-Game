@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dinomk:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/dinomk_jar2</output-path>
+    <root id="archive" name="dinomk.jar">
+      <element id="module-output" name="dinomk" />
+    </root>
+  </artifact>
+</component>
