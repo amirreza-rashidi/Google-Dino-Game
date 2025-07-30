@@ -1,6 +1,6 @@
-# 🦖 Dino Game - Java Swing
+#  Bird Game - Java Swing
 
-🎮 A simple Dino runner game built with Java and Swing.  
+🎮 A simple Bird flyer game built with Java and Swing.  
 🏃‍♂️ Inspired by the offline Google Chrome Dinosaur Game.  
 
 ---
@@ -8,9 +8,9 @@
 ## 🌐 English
 
 ### 🚀 Features
-- Jump over cactus using `SPACE` key
+- Jump over mountain using `SPACE` key
 - Game Over detection on collision
-- Custom graphics (dino & cactus images)
+- Custom graphics (bird & mountain images)
 - Simple animations using `javax.swing.Timer`
 
 ### 🛠️ Technologies
@@ -29,9 +29,9 @@
 <h3 dir="rtl">🎮 امکانات بازی</h3>
 
 <ul dir="rtl">
-  <li>پرش دایناسور با کلید <code>SPACE</code></li>
-  <li>شناسایی برخورد با کاکتوس و پایان بازی</li>
-  <li>استفاده از تصاویر اختصاصی برای دایناسور و مانع</li>
+  <li>پرش پرنده با کلید <code>SPACE</code></li>
+  <li>شناسایی برخورد با کوه و پایان بازی</li>
+  <li>استفاده از تصاویر اختصاصی برای پرنده و مانع</li>
   <li>انیمیشن ساده با تایمر Swing</li>
 </ul>
 
